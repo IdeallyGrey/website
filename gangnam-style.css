@@ -4,6 +4,7 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #333;
+    width: 100%;
 }
 
 li {
@@ -25,6 +26,7 @@ li a:hover:not(.active) {
 .active {
     background-color: green;
 }
+
 
 body {
     font-size: larger;
