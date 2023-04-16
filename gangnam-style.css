@@ -28,6 +28,8 @@ li a:hover:not(.active) {
 
 
 body {
+    margin: 0;
+
     font-size: larger;
     font-family: Sen, sans-serif;
     background-color: snow;
@@ -36,4 +38,5 @@ body {
 div {
     width: 45em;
     margin: 0 auto;
+    background-color: whitesmoke;
 }
