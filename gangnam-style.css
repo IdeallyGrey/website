@@ -1,7 +1,7 @@
 ul {
-    border-radius: 20px;
+    border-radius: 15px;
     list-style-type: none;
-    margin: 2;
+    margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: black;
@@ -30,8 +30,6 @@ li a:hover:not(.active) {
 
 
 body {
-    margin: 0;
-
     font-size: larger;
     font-family: Inter, sans-serif;
     background-color: snow;
