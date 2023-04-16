@@ -14,7 +14,7 @@ li a {
     display: block;
     color: gainsboro;
     text-align: center;
-    padding: 14px 16px;
+    padding: 16px 26px;
     text-decoration: none;
 }
 
@@ -29,8 +29,11 @@ li a:hover:not(.active) {
 
 body {
     font-size: larger;
-    width: 45em;
-    margin: 0 auto;
     font-family: Sen, sans-serif;
     background-color: snow;
+}
+
+div {
+    width: 45em;
+    margin: 0 auto;
 }
