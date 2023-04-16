@@ -12,9 +12,9 @@ li {
 
 li a {
     display: block;
-    color: blue;
-    text-align: left;
-    padding: 1000000px 16px;
+    color: black;
+    text-align: center;
+    padding: 1px 1px;
     text-decoration: none;
 }
 
@@ -32,5 +32,5 @@ body {
     width: 45em;
     margin: 0 auto;
     font-family: Sen, sans-serif;
-    background-color: beige;
+    background-color: snow;
 }
