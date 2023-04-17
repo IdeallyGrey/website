@@ -1,5 +1,5 @@
 ul {
-    border-radius: 20px;
+    border-radius: 34px;
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -16,8 +16,9 @@ li a {
     display: block;
     color: gainsboro;
     text-align: center;
-    padding: 16px 26px;
+    padding: 26px 36px;
     text-decoration: none;
+    font-size: 28px;
 }
 
 li a:hover:not(.active) {
@@ -30,13 +31,29 @@ li a:hover:not(.active) {
 
 
 body {
-    font-size: larger;
+    font-size: large;
     font-family: Inter, sans-serif;
-    background-color: snow;
+    color: snow;
+    background-color: rgb(19, 24, 26);
 }
 
-div {
-    width: 60em;
-    margin: 0 auto;
-    background-color: whitesmoke;
+section {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 400px;
+    padding: 100px 20vw;
+}
+
+.blue {
+    background: blue;
+}
+
+.red {
+    background: red;
+}
+
+.green {
+    background: green;
 }
