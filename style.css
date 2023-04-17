@@ -34,7 +34,7 @@ body {
     font-size: large;
     font-family: Inter, sans-serif;
     color: snow;
-    background-color: rgb(19, 24, 26);
+    background-color: #142027;
 }
 
 section {
@@ -46,14 +46,14 @@ section {
     padding: 100px 20vw;
 }
 
-.blue {
-    background: blue;
+.yellow {
+    background: #FBC823;
 }
 
 .red {
-    background: red;
+    background: #F98062;
 }
 
-.green {
-    background: green;
+.blue {
+    background: #73B7BF;
 }
