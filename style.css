@@ -167,8 +167,6 @@ section {
   padding-top: 125px;
   
   background-color: #ffffff10;
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
 
   list-style-type: none;
   -webkit-font-smoothing: antialiased;
