@@ -2,7 +2,7 @@
 body {
   font-size: x-large;
   font-family: Inter, sans-serif;
-  color: snow;
+  color: #cdcdcd;
   background-color: #142027;
   margin: 0;
   height: 100%;
@@ -32,6 +32,16 @@ section {
 .dark-text {
   color: #142027;
 }
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -74,7 +84,6 @@ transition: color 0.3s ease;
 {
 color: tomato;
 }
-
 
 #menuToggle input
 {
@@ -190,4 +199,107 @@ font-size: 22px;
 #menuToggle input:checked ~ ul
 {
 transform: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+The following effect is taken from: https://codepen.io/JacobStone420/pen/Jjjpaa?editors=1100#anon-signup
+Licenced MIT
+*/
+
+.Iam {
+  padding: 2em 5em;
+  font: normal 40px/50px Inter, sans-serif;
+  color: #cdcdcd;
+}
+.Iam p {
+  height: 50px;
+  float: left;
+  margin-right: 0.3em;
+}
+.Iam b {
+  float: left;
+  overflow: hidden;
+  position: relative;
+  height: 50px;
+  top: 40px;
+}
+.Iam .innerIam {
+  display: inline-block;
+  color: tomato;
+  position: relative;
+  white-space: nowrap;
+  top: 0;
+  left: 0;
+
+
+/*animation*/
+-webkit-animation:move 10s;
+   -moz-animation:move 10s;
+    -ms-animation:move 10s;
+     -o-animation:move 10s;
+        animation:move 10s;
+/*animation-iteration-count*/
+-webkit-animation-iteration-count:infinite;
+   -moz-animation-iteration-count:infinite;
+    -ms-animation-iteration-count:infinite;
+     -o-animation-iteration-count:infinite;
+        animation-iteration-count:infinite;
+/*animation-delay*/
+-webkit-animation-delay:1s;
+   -moz-animation-delay:1s;
+    -ms-animation-delay:1s;
+     -o-animation-delay:1s;
+        animation-delay:1s;
+}
+@keyframes move{
+0%  { top: 0px; }
+20% { top: -50px; }
+40% { top: -100px; }
+60% { top: -150px; }
+80% { top: -200px; }
+}
+
+@-webkit-keyframes move {
+    0%  { top: 0px; }
+    20% { top: -50px; }
+    40% { top: -100px; }
+    60% { top: -150px; }
+    80% { top: -200px; }
+}
+@-moz-keyframes move {
+    0%  { top: 0px; }
+    20% { top: -50px; }
+    40% { top: -100px; }
+    60% { top: -150px; }
+    80% { top: -200px; }
+}
+@-o-keyframes move {
+    0%  { top: 0px; }
+    20% { top: -50px; }
+    40% { top: -100px; }
+    60% { top: -150px; }
+    80% { top: -200px; }
+}
+@keyframes move {
+    0%  { top: 0px; }
+    20% { top: -50px; }
+    40% { top: -100px; }
+    60% { top: -150px; }
+    80% { top: -200px; }
 }
