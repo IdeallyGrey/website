@@ -1,7 +1,7 @@
 
 body {
-  font-size: x-large;
-  font-family: Inter, sans-serif;
+  font-size: large;
+  font-family: Verdana, sans-serif;
   color: #cdcdcd;
   background-color: #142027;
   margin: 0;
@@ -226,7 +226,7 @@ Licenced MIT
 
 .Iam {
   padding: 2em 5em;
-  font: normal 40px/50px Inter, sans-serif;
+  font: normal 40px/50px Georgia, sans-serif;
   color: #cdcdcd;
 }
 .Iam p {
@@ -251,11 +251,11 @@ Licenced MIT
 
 
 /*animation*/
--webkit-animation:move 10s;
-   -moz-animation:move 10s;
-    -ms-animation:move 10s;
-     -o-animation:move 10s;
-        animation:move 10s;
+-webkit-animation:move 15s;
+   -moz-animation:move 15s;
+    -ms-animation:move 15s;
+     -o-animation:move 15s;
+        animation:move 15s;
 /*animation-iteration-count*/
 -webkit-animation-iteration-count:infinite;
    -moz-animation-iteration-count:infinite;
