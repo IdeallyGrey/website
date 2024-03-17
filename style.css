@@ -13,8 +13,8 @@ section {
   display: flex;
   flex-direction: column;
   align-items: center;
-  min-height: 400px;
-  padding: 100px 15vw;
+  min-height: 300px;
+  padding: 75px 15vw;
 }
 
 .yellow {
