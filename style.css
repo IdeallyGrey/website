@@ -239,12 +239,12 @@ Licenced MIT
   overflow: hidden;
   position: relative;
   height: 50px;
-  top: 40px;
+  top: -30px;
 }
 .Iam .innerIam {
   display: inline-block;
   color: tomato;
-  position: relative;
+  position: relative; 
   white-space: nowrap;
   top: 0;
   left: 0;
