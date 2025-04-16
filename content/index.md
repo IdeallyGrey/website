@@ -4,3 +4,5 @@ We're (yet again) doing some construction around here. I decided it would be a g
 At any rate, please stayed tuned for updates!
 
 -Lukas
+
+[A subdirectory?](./subdir/)
