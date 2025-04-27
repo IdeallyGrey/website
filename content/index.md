@@ -14,7 +14,3 @@ At any rate, please stayed tuned for updates!
 
 - [Indika](./posts/indika/)
 
-**[All posts](./posts/)**
-
-[About me](./about/)
-
