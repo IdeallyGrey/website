@@ -28,7 +28,7 @@ $endif$
     h1,h2,h3{
 	line-height:1.2;
     }
-    #id{
+    #home-bar{
     text-align: center;
     }
   </style>
