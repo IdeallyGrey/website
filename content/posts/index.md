@@ -1,4 +1,6 @@
-# All posts
+---
+title: All posts
+---
 
 ## 2025
 

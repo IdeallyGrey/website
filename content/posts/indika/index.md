@@ -1,3 +1,7 @@
+---
+title: Indika
+---
+
 I recently played through [*Indika*, by Odd Meter Games](https://indikathegame.com/). From their site:
 
 > "INDIKA tells the story of a young nun who sets off on a journey of self-discovery with the most unusual companion by her side, the devil himself." 

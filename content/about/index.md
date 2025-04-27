@@ -1,4 +1,7 @@
-# About me
+---
+title: About me
+---
+
 Good day!
 
 My name is Lukas Hamm, I am a computer science student. My interests include F.O.S.S., open data, travel, culture, and the outdoors.
