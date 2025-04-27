@@ -1,1 +1,7 @@
-[2025](./2025/)
+# All posts
+
+## 2025
+
+**April**
+
+- [Indika](./indika/)

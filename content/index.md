@@ -9,7 +9,7 @@ At any rate, please stayed tuned for updates!
 
 ## Recent posts:
 
-- [Indika](./posts/2025/indika/)
+- [Indika](./posts/indika/)
 
 **[All posts](./posts/)**
 
