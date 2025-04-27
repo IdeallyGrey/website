@@ -7,7 +7,7 @@ At any rate, please stayed tuned for updates!
 
 -Lukas
 
-# Recent posts:
+## Recent posts:
 
 - [Indika](./posts/2025/indika/)
 
