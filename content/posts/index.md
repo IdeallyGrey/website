@@ -1,5 +1,5 @@
 ---
-title: All posts
+title: Ravings and ramblings
 ---
 
 ## 2025
