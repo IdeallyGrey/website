@@ -10,5 +10,6 @@ Recommend if: You enjoy exploring heavy themes, commentary on religion, and star
 
 Wouldn't recommend if: You are put off by any of the above, or are dead-set on historical accuracy/realism.
 
-![Indika, dressed in the black religious habit of a nun, stands in snow covered cemetery. She faces a wooden shrine in which is a lit candle. A wooden house is seen in the background, while the horizon fades into a bleak whiteness.](./indika1.jpeg){ width=100% }\
+![Indika, dressed in the black religious habit of a nun, stands in snow covered cemetery. She faces a wooden shrine in which is a lit candle. A wooden house is seen in the background, while the horizon fades into a bleak whiteness.](./indika1.jpg){ width=100% }\
+
 ![Indika stands on an elevated walkway in a bleak factory. Below her, drying while hanging from conveyor belts, are huge fish, close to a hundred times larger than their IRL counterparts.](./indika2.jpg){ width=100% }\
