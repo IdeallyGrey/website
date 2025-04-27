@@ -3,11 +3,15 @@ We're (yet again) doing some construction around here. I rolled together a simpl
 
 At any rate, please stayed tuned for updates!
 
-Slava Ukraini
+[Support Ukraine](https://u24.gov.ua/)
 
 -Lukas
 
-[A subdirectory?](./subdir/)
+# Recent posts:
+
+- [Indika](./posts/2025/indika/)
+
+**[All posts](./posts/)**
 
 [About me](./about/)
 
